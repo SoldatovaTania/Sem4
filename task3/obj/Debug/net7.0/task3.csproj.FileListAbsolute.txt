@@ -1,0 +1,15 @@
+/Users/tanya/Desktop/Учеба/С#/Sem4/task3/bin/Debug/net7.0/task3
+/Users/tanya/Desktop/Учеба/С#/Sem4/task3/bin/Debug/net7.0/task3.deps.json
+/Users/tanya/Desktop/Учеба/С#/Sem4/task3/bin/Debug/net7.0/task3.runtimeconfig.json
+/Users/tanya/Desktop/Учеба/С#/Sem4/task3/bin/Debug/net7.0/task3.dll
+/Users/tanya/Desktop/Учеба/С#/Sem4/task3/bin/Debug/net7.0/task3.pdb
+/Users/tanya/Desktop/Учеба/С#/Sem4/task3/obj/Debug/net7.0/task3.csproj.AssemblyReference.cache
+/Users/tanya/Desktop/Учеба/С#/Sem4/task3/obj/Debug/net7.0/task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanya/Desktop/Учеба/С#/Sem4/task3/obj/Debug/net7.0/task3.AssemblyInfoInputs.cache
+/Users/tanya/Desktop/Учеба/С#/Sem4/task3/obj/Debug/net7.0/task3.AssemblyInfo.cs
+/Users/tanya/Desktop/Учеба/С#/Sem4/task3/obj/Debug/net7.0/task3.csproj.CoreCompileInputs.cache
+/Users/tanya/Desktop/Учеба/С#/Sem4/task3/obj/Debug/net7.0/task3.dll
+/Users/tanya/Desktop/Учеба/С#/Sem4/task3/obj/Debug/net7.0/refint/task3.dll
+/Users/tanya/Desktop/Учеба/С#/Sem4/task3/obj/Debug/net7.0/task3.pdb
+/Users/tanya/Desktop/Учеба/С#/Sem4/task3/obj/Debug/net7.0/task3.genruntimeconfig.cache
+/Users/tanya/Desktop/Учеба/С#/Sem4/task3/obj/Debug/net7.0/ref/task3.dll

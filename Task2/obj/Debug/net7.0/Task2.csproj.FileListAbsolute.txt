@@ -1,0 +1,15 @@
+/Users/tanya/Desktop/Учеба/С#/Sem4/Task2/bin/Debug/net7.0/Task2
+/Users/tanya/Desktop/Учеба/С#/Sem4/Task2/bin/Debug/net7.0/Task2.deps.json
+/Users/tanya/Desktop/Учеба/С#/Sem4/Task2/bin/Debug/net7.0/Task2.runtimeconfig.json
+/Users/tanya/Desktop/Учеба/С#/Sem4/Task2/bin/Debug/net7.0/Task2.dll
+/Users/tanya/Desktop/Учеба/С#/Sem4/Task2/bin/Debug/net7.0/Task2.pdb
+/Users/tanya/Desktop/Учеба/С#/Sem4/Task2/obj/Debug/net7.0/Task2.csproj.AssemblyReference.cache
+/Users/tanya/Desktop/Учеба/С#/Sem4/Task2/obj/Debug/net7.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanya/Desktop/Учеба/С#/Sem4/Task2/obj/Debug/net7.0/Task2.AssemblyInfoInputs.cache
+/Users/tanya/Desktop/Учеба/С#/Sem4/Task2/obj/Debug/net7.0/Task2.AssemblyInfo.cs
+/Users/tanya/Desktop/Учеба/С#/Sem4/Task2/obj/Debug/net7.0/Task2.csproj.CoreCompileInputs.cache
+/Users/tanya/Desktop/Учеба/С#/Sem4/Task2/obj/Debug/net7.0/Task2.dll
+/Users/tanya/Desktop/Учеба/С#/Sem4/Task2/obj/Debug/net7.0/refint/Task2.dll
+/Users/tanya/Desktop/Учеба/С#/Sem4/Task2/obj/Debug/net7.0/Task2.pdb
+/Users/tanya/Desktop/Учеба/С#/Sem4/Task2/obj/Debug/net7.0/Task2.genruntimeconfig.cache
+/Users/tanya/Desktop/Учеба/С#/Sem4/Task2/obj/Debug/net7.0/ref/Task2.dll
